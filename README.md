@@ -13,7 +13,7 @@ to try to solve it, here are just a couple.
 
 - mr-db2.pl - loading the movie rating data into a db 
 - rmse.pl - calculating the RMSE of the results
-- wrap.csh - shell rapper splitting the load up among systems
+- wrap.csh - shell wrapper splitting the load up among systems
 - qfx.pl - approach #1 - This approach aims to match up a user's
 viewing tastes with someone else who has seen the movie in
 question and basing prediction on this.
